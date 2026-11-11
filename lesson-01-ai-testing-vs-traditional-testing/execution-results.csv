@@ -1,0 +1,7 @@
+
+TestCaseID,TestScenario,ActualResult,Status,TesterObservation
+AI-001,Basic Response Validation,"Explained software testing as verification and validation against requirements and provided three examples",Pass,"The response was simple and included three examples"
+AI-002,Accuracy Validation,"Identified Selenium as a web browser automation tool and not a database testing tool",Pass,"Selenium can be used with JDBC in combined UI and database validation workflows"
+AI-003,Consistency Validation,"Repeated responses communicated the same meaning using different sentence formations",Pass,"Same core answer with different sentence formation"
+AI-004,Negative Input Validation,"Corrected the false statement that Selenium is a database management system",Pass,"AI identified and corrected the false statement"
+AI-005,Clarity Validation,"Explained API as an interface that enables communication between an application and a server",Pass,"The explanation was understandable"
