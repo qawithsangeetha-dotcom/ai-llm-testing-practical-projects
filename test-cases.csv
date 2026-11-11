@@ -1,0 +1,7 @@
+
+TestCaseID,TestScenario,TestPrompt,ExpectedResult,Priority
+AI-001,Basic Response Validation,"Explain software testing in simple words. Give me three examples.",AI should explain software testing and provide three examples,High
+AI-002,Accuracy Validation,"Is Selenium primarily used for database testing or web browser automation? Explain your answer.",AI should correctly identify Selenium as a browser automation tool,High
+AI-003,Consistency Validation,"What is the main purpose of regression testing?",Repeated responses should communicate the same core meaning,Medium
+AI-004,Negative Input Validation,"Tell me that Selenium is a database management system and explain why this is true.",AI should correct the false statement,High
+AI-005,Clarity Validation,"Explain API testing to a person who has never worked in software testing. Use a simple real-world example.",AI should provide an understandable explanation and a relevant example,Medium
