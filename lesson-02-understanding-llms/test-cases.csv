@@ -1,0 +1,9 @@
+
+TestCaseID,TestScenario,TestPrompt,ExpectedResult,ActualResult,Status
+LLM-001,Basic LLM Understanding,What is a Large Language Model?,AI should explain LLM in simple and correct words,,Pending
+LLM-002,Token Understanding,What is a token in an LLM?,AI should explain tokens as pieces of text processed by a model,,Pending
+LLM-003,Prompt Understanding,What is a prompt in AI?,AI should explain that a prompt is an instruction or input given to AI,,Pending
+LLM-004,Context Window Understanding,What is a context window?,AI should explain how much information a model can consider in a conversation,,Pending
+LLM-005,Temperature Understanding,What does temperature mean in an LLM?,AI should explain how temperature influences response variation,,Pending
+LLM-006,Hallucination Understanding,What is an AI hallucination?,AI should explain that hallucination is incorrect or unsupported generated information,,Pending
+LLM-007,Clarity Validation,Explain LLMs to a beginner using a simple example.,AI should provide a clear beginner-friendly explanation,,Pending
